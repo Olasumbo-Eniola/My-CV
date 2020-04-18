@@ -54,15 +54,16 @@ border: 2px solid #ffffff;
 background: hotpink;
 }
 .boxed-layout #pagewrap {
+    margin-top: 10%;
 background: rgb(221, 136, 179);
-max-width: 1150px;
-margin: 30px auto;
+max-width: 1000px;
+margin: 40px auto;
 box-shadow: 0 0 15px black;
 }
 .boxed-layout #header .tf_row_inner, 
 .boxed-layout #middle, 
 .boxed-layout #footer .tf_row_inner {
-padding: 0 3%;
+padding: 0 5%;
 }
 section {
 padding-left: 5em;
