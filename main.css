@@ -52,6 +52,7 @@ border: 2px solid #ffffff;
 }
 .boxed-layout {
 background: hotpink;
+padding-bottom: 20px;
 }
 .boxed-layout #pagewrap {
     margin-top: 10%;
@@ -60,6 +61,11 @@ max-width: 1000px;
 max-height: 300%;
 margin: 40px auto;
 box-shadow: 0 0 15px black;
+padding-bottom: 30px;
+}
+a{
+    color: white !important;
+
 }
 .boxed-layout #header .tf_row_inner, 
 .boxed-layout #middle, 
